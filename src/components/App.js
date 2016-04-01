@@ -56,7 +56,8 @@ export default class App extends Component {
           <strong>Use CTRL + H to show/hide the redux dev tool.</strong> <br />
           <strong>Note</strong> that the state and the application data are independent,
           so despite you can time travel on the state you can not do it on changes pushed to the API
-          just like when you are working with a real remote database.
+          just like when you are working with a real remote database. <br />
+          <a target="_blank" href="https://github.com/cristianszwarc/react_crud_localStorage">GitHub</a>
         </p>
 
       </div>

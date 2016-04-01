@@ -1,5 +1,5 @@
 
-React/Redux basic CRUD example webapp
+React/Redux basic CRUD example
 -------------------------------
 
 This little app was made to test a basic CRUD for a webpapp. This was done thinking on a mobile or chrome application so this is not using routes.
