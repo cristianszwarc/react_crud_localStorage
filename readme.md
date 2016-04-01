@@ -2,11 +2,13 @@
 React/Redux basic CRUD example webapp
 -------------------------------
 
-This is a little app was made to test the basic CRUD steps on a webpapp. This was done thinking on a mobile or chrome application so this is not using routes.
+This little app was made to test a basic CRUD for a webpapp. This was done thinking on a mobile or chrome application so this is not using routes.
 
 A separation between the state and the application data is in place to test a more realistic situation where you do async calls to a remote API, something missing on many redux/react examples.
 
-This is being developed while I'm learning about react/redux so the code shared here contains many errors and is not following any particular standard.
+This is being developed while I'm learning about react/redux so the code shared here may contain newbie errors and is not following any particular standard, but it contains a bunch of comments that may help some one that is struggling to understand how react/redux works.
+
+[Demo](http://cristianszwarc.github.io/react_crud_localStorage/)
 
 **Local Storage**
 This uses local storage for two tasks:
